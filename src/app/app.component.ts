@@ -10,7 +10,7 @@ export interface PeriodicElement {
 }
 
 const ELEMENT_DATA: PeriodicElement[] = [
-  {position: 1, name: 'Hydrogen', task: 'Progress'},
+  {position: 1, name: 'Hydrogen', task: 'Completed'},
   {position: 2, name: 'Helium', task: 'In progress'},
   {position: 3, name: 'Lithium', task: 'Pending'},
 ];

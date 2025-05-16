@@ -1,0 +1,46 @@
+.barTitle{
+    background-color: #ff0000;
+    color: white;
+}
+
+.sub-title{
+    color: black;
+    font-size: 24px;
+}
+
+.img-logo{
+    width: 100px;
+    height: 100px;
+}
+
+.state{
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.in-progress{
+    border-radius: 20px;
+    border-color: green;
+    border-width: 2px;
+    color: green;
+    background-color: rgb(121, 219, 121);
+}
+
+.completed{
+    border-radius: 20px;
+    border-color: blue;
+    border-width: 2px;
+    color: blue;
+    background-color: rgb(121, 121, 219);
+}
+
+.pending{
+    border-radius: 20px;
+    border-color: red;
+    border-width: 2px;
+    color: red;
+    background-color: rgb(219, 121, 121);
+}
